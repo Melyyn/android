@@ -57,24 +57,11 @@
   <project path="device/generic/art" name="device/generic/art" groups="pdk" remote="aosp" />
   <project path="device/generic/car" name="device/generic/car" groups="pdk" remote="aosp" />
   <project path="device/generic/common" name="LineageOS/android_device_generic_common" groups="pdk" />
-  <project path="device/generic/goldfish" name="device/generic/goldfish" groups="pdk" remote="aosp" />
-  <project path="device/generic/goldfish-opengl" name="device/generic/goldfish-opengl" groups="pdk" remote="aosp" />
-  <project path="device/generic/mini-emulator-arm64" name="device/generic/mini-emulator-arm64" groups="pdk" remote="aosp" />
-  <project path="device/generic/mini-emulator-armv7-a-neon" name="device/generic/mini-emulator-armv7-a-neon" groups="pdk" remote="aosp" />
-  <project path="device/generic/mini-emulator-x86" name="device/generic/mini-emulator-x86" groups="pdk" remote="aosp" />
-  <project path="device/generic/mini-emulator-x86_64" name="device/generic/mini-emulator-x86_64" groups="pdk" remote="aosp" />
-  <project path="device/generic/qemu" name="device/generic/qemu" groups="pdk" remote="aosp" />
   <project path="device/generic/trusty" name="device/generic/trusty" groups="pdk" remote="aosp" />
   <project path="device/generic/uml" name="device/generic/uml" groups="device,pdk" remote="aosp" />
   <project path="device/generic/x86" name="device/generic/x86" groups="pdk" remote="aosp" />
   <project path="device/generic/x86_64" name="device/generic/x86_64" groups="pdk" remote="aosp" />
   <project path="device/generic/vulkan-cereal" name="device/generic/vulkan-cereal" groups="pdk" remote="aosp" />
-  <project path="device/google/atv" name="LineageOS/android_device_google_atv" groups="device,broadcom_pdk,generic_fs,pdk" />
-  <project path="device/google/contexthub" name="LineageOS/android_device_google_contexthub" groups="device,pdk" />
-  <project path="device/google/cuttlefish" name="device/google/cuttlefish" groups="device,pdk" remote="aosp" />
-  <project path="device/google/cuttlefish_prebuilts" name="device/google/cuttlefish_prebuilts" groups="device,pdk" clone-depth="1" remote="aosp" />
-  <project path="device/google/gs-common" name="device/google/gs-common" groups="device,slider,bluejay,pdk-gs-arm" remote="aosp" />
-  <project path="device/google/vrservices" name="device/google/vrservices" groups="pdk" remote="aosp" />
   <project path="device/sample" name="device/sample" groups="pdk" remote="aosp" />
   <project path="external/aac" name="platform/external/aac" groups="pdk" remote="aosp" />
   <project path="external/abseil-cpp" name="platform/external/abseil-cpp" groups="pdk" remote="aosp" />
